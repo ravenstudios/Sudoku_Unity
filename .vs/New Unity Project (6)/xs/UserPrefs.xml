@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{42F8F220-8C1A-D30C-5D2D-03BB4DAF5B50}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GeneratePuzzle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ClickableNumberSpaceController.cs" Line="20" Column="16" />
+      <File FileName="Assets/Scripts/GeneratePuzzle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (6)" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af844599-88dd-434d-a214-ed501723a5c4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
